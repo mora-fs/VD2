@@ -134,8 +134,7 @@
     font-family: Georgia;
     font-weight: 100;
     font-size: 2.5vw;
-    margin-top: 2vh; 
-    margin-bottom: 1vw;
+    margin: 2vh 0;
     color: #161616; 
   }
   .bajada {
@@ -167,7 +166,7 @@
     height: fit-content;
     display: flex; 
     flex-direction: column;
-    margin-bottom: 2.5vh;
+    margin-bottom: 2vh;
   }
   .container_incendiados, .container_plantados {
     display: flex;
