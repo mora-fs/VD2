@@ -37,7 +37,7 @@
   <div class="intro">
     <h1 class="titulo">Reforestación y prevención de incendios en La Patagonia, Argentina</h1>
     <h2 class="subtitulo">En estos 10 años, intentamos contrarrestar los árboles <span style="color: #c32f27">incendiados</span> con proyectos de árboles <span style="color:#317319">plantados</span></h2>
-    <p class="bajada">Desde 2015 estamos trabajando para reforestar los bosques de La Patagonia, Argentina. Es una acción clave para restaurar los ecosistemas dañados por incendios forestales, que también estamos intentando reducir. Cada año los proyectos crecen, y aumenta el impacto que generamos en el medio ambiente y las comunidades locales. </p>
+    <p class="bajada">Desde 2015 estamos trabajando para reforestar los bosques de La Patagonia, Argentina. Es una acción clave para restaurar los ecosistemas dañados por incendios forestales, que también estamos intentando reducir. Cada año los proyectos son más ambiciosos, generando mayor impacto en el medio ambiente y las comunidades locales. Nuestro objetivo es seguir creciendo y comenzando nuevos poryectos cada año. </p>
   </div>
   <div class="representaciones">
     {#each data as nma}
@@ -128,18 +128,19 @@
 <style>
   .titulo {
     font-family: Georgia; 
-    font-size: 4vw; 
+    font-size: 3vw; 
+    margin: 0;
   }
   .subtitulo {
-    font-family: Georgia;
     font-weight: 100;
-    font-size: 2.5vw;
-    margin: 2vh 0;
+    font-size: 1.8vw;
+    margin: 1vh 0;
     color: #161616; 
   }
   .bajada {
+    font-family: 'Georgia';
     margin-bottom: 15px;
-    margin-top: 0; 
+    margin-top: 4vh; 
   }
   
   .representaciones {
@@ -221,7 +222,7 @@
     margin-top: 8vh;
   }
   .footer {
-    padding: 1.5vh;
+    padding: 2vh;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
