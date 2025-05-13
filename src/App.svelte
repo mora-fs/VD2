@@ -116,7 +116,7 @@
   <div class="footer">
     <div class="izq">
       <p class="entregable">Mora Fernandez Stickar</p>
-      <a target="_blank" href="https://www.canva.com/design/DAGky6xYt4M/VXONN_OC1qA-KJkdfPBazA/edit?utm_content=DAGky6xYt4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><p>Presentación del proceso de diseño</p></a>
+      <a target="_blank" href="https://www.canva.com/design/DAGky6xYt4M/kcb03bC3ewU4Z_g2GM2WOw/view?utm_content=DAGky6xYt4M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h39662ca110"><p>Presentación del proceso de diseño</p></a>
     </div>
     <div class="der">
       <p>Tecnología Digital | Visualización de Datos</p>
