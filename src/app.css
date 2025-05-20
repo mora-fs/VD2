@@ -1,10 +1,13 @@
 body {
     background-color: #FAF9F6;
     margin: 13vh 16vw 5vh 16vw; 
-    color: #204812;
+    color: #161616;
     font-family: Helvetica;
 }
 p {
   font-size: 1.2vw;
-  color: #161616; 
+}
+
+.div_number{
+  text-align: center; 
 }
